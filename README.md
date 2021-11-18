@@ -1,4 +1,4 @@
-# 10k---15k.com
+# 10k---15k
 <!DOCTYPE html>
 <html lang="en">
 <head>
